@@ -1,0 +1,2 @@
+git config --global user.name luiz599
+git config --global user.email fernando2nik@gmail.com
